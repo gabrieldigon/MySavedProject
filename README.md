@@ -1,2 +1,2 @@
-# WWDC23
-Um projetinho pra ajudar os colegas a usar o basico do git
+# MySavedProject
+Um projetinho feito pra workshop pra ajudar os colegas a salvar os projetos da wwdc no git do git
